@@ -1,4 +1,4 @@
-HyprClone
+HyprClone /n
 
 Desktop Environment - Hyprland 
 Distro - EndeavourOS
