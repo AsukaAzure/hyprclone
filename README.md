@@ -1,19 +1,18 @@
 HyprClone 
 
-Desktop Environment - Hyprland 
-
+Desktop Environment - Hyprland <br>
 Distro - EndeavourOS
 
-Applications
-  Kitty
-  Nemo
-  Waybar
-  Swaync
-  Swaylock
-  Hyprlock
-  Wofi
-  Rofi
-  Waypaper(swww)
+Applications<br>
+  Kitty<br>
+  Nemo<br>
+  Waybar<br>
+  Swaync<br>
+  Swaylock<br>
+  Hyprlock<br>
+  Wofi<br>
+  Rofi<br>
+  Waypaper(swww)<br>
 
  ScreenShots!!
 
