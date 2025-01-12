@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/30a9f7cb-651c-4d38-938e-636c1c17a096)HyprClone
+HyprClone
 
 Desktop Environment - Hyprland 
 Distro - EndeavourOS
