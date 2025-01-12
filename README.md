@@ -1,6 +1,7 @@
-HyprClone /n
+HyprClone 
 
 Desktop Environment - Hyprland 
+
 Distro - EndeavourOS
 
 Applications
